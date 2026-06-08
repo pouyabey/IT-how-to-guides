@@ -33,7 +33,7 @@ IT support technicians and help desk staff.
 Open Server Manager, go to Tools, and select Active Directory Users and Computers.
 
 Screenshot:
-![Open Active Directory Users and Computers](screenshots/ad-password-reset-01-open-aduc.png)
+![Open Active Directory Users and Computers](../screenshots/ad-password-reset-01-open-aduc.png)
 
 Expected result:
 Active Directory Users and Computers opens successfully.
@@ -44,7 +44,7 @@ Active Directory Users and Computers opens successfully.
 Search for the user or browse to the correct Organizational Unit.
 
 Screenshot:
-![Find User Account](screenshots/ad-password-reset-02-find-user.png)
+![Find User Account](../screenshots/ad-password-reset-02-find-user.png)
 
 Expected result:
 The correct user account is located.
@@ -55,17 +55,19 @@ The correct user account is located.
 Right-click the user account and select Reset Password. Enter a temporary password, confirm it, and check User must change password at next logon.
 
 Screenshot:
-![Reset Password Option](screenshots/ad-password-reset-03-reset-password.png)
+![Reset Password Option](../screenshots/ad-password-reset-03-reset-password.png)
 
 Expected result:
 The Reset Password window opens.
 The password is reset successfully.
 
+---
+
 ### Step 4: Unlock the Account if Needed
 If the account is locked, open the user properties and unlock the account.
 
 Screenshot:
-![Unlock Account](screenshots/ad-password-reset-05-unlock-account.png)
+![Unlock Account](../screenshots/ad-password-reset-04-unlock-account.png)
 
 Expected result:
 The user account is unlocked and ready for login.
