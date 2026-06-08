@@ -52,28 +52,16 @@ The correct user account is located.
 ---
 
 ### Step 3: Reset the Password
-Right-click the user account and select Reset Password.
+Right-click the user account and select Reset Password. Enter a temporary password, confirm it, and check User must change password at next logon.
 
 Screenshot:
 ![Reset Password Option](screenshots/ad-password-reset-03-reset-password.png)
 
 Expected result:
 The Reset Password window opens.
-
----
-
-### Step 4: Enter a Temporary Password
-Enter a temporary password, confirm it, and check User must change password at next logon.
-
-Screenshot:
-![Enter Temporary Password](screenshots/ad-password-reset-04-temporary-password.png)
-
-Expected result:
 The password is reset successfully.
 
----
-
-### Step 5: Unlock the Account if Needed
+### Step 4: Unlock the Account if Needed
 If the account is locked, open the user properties and unlock the account.
 
 Screenshot:
