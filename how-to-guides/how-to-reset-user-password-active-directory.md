@@ -1,5 +1,19 @@
 # How to Reset a User Password in Active Directory
 
+### How I Write How-To Guides
+
+- Review the task first
+- Identify the audience and required access
+- Write clear step-by-step instructions
+- Add screenshots for key steps
+- Include expected results
+- Add common issues and quick fixes
+- Write verification steps
+- Add escalation notes if needed
+- Keep the guide simple and easy to update
+
+---
+
 ## Purpose
 This guide explains how to reset a user password in Active Directory Users and Computers and confirm the account is ready for login.
 
