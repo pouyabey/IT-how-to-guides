@@ -2,7 +2,7 @@
 
 ### How I Write How-To Guides
 
-- Review the task first
+- Review the task and define the purpose
 - Identify the audience and required access
 - Write clear step-by-step instructions
 - Add screenshots for key steps
