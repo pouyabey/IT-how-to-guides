@@ -24,7 +24,7 @@ The purpose of this project is to practice writing clear technical documentation
 - Verification and escalation notes
 
 ## Project Structure
-
+```
 IT-how-to-guides/
 ├── how-to-guides/
 │   └── how-to-reset-user-password-active-directory.md
@@ -34,7 +34,7 @@ IT-how-to-guides/
 │   ├── ad-password-reset-03-reset-password.png
 │   └── ad-password-reset-04-unlock-account.png
 └── README.md
-
+```
 ## Notes
 
 This project is part of my IT support portfolio. It shows my ability to document common support tasks in a clear, organized, and practical way.
